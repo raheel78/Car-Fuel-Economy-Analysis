@@ -1,14 +1,14 @@
 
 # Car-Fuel-Economy-Analysis
 
-## Exercise description
+### Exercise description
 In addition to this document, you will find two files in this directory:
   - cars_data.csv
   - cars_description.csv
   
 The first file lists 11 characteristics for 32 different car models, and the second file explains these characteristics. We want to use this data set to investigate the following problem:
 
-## Does the type of transmission influence a car’s fuel efficiency?
+### Does the type of transmission influence a car’s fuel efficiency?
 It is not necessary to do the full analysis, but you may do some exploratory work in order to address the following points:
 
 1. Describe your overall strategy to solve a problem like this.
